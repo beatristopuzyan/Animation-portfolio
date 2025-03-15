@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home Page</title>
+        <link rel="stylesheet" href="styles.css">
+        <script defer src="script.js"></script>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="aboutme.html">About Me</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <h1>Welcome to Beatris Topuzyan’s Animation Portfolio</h1>
+        <p>Step into my world of motion, storytelling, and creativity. I specialize in bringing characters, ideas, and visuals to life through 2D and 3D animation.Whether it's character animation, concept development, or visual storytelling, I’m passionate about crafting engaging content that connects with audiences.
+            Explore my work, discover my process, and feel free to get in touch for collaborations or commissions. Let’s create something amazing together!</p>
+        <a href="portfolio.html" class="cta-button">Explore My Work</a>
+    </header>
+</body>
+</html>
