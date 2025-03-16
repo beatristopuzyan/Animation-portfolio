@@ -155,9 +155,11 @@ button:hover {
 
 .about-container {
     max-width: 900px;
-    margin: 0 auto;
+    margin: 50px auto; 
     padding: 20px;
-    
+    background-color: #8863aa; 
+    border-radius: 15px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
 
 .about-content {
@@ -169,7 +171,7 @@ button:hover {
 .about-image {
     width: 200px; 
     height: auto;
-    border-radius: 100px;
+    border-radius: 50%; 
     flex-shrink: 0; 
 }
 
