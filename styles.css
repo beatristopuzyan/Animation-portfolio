@@ -180,10 +180,10 @@ button:hover {
     text-align: justify;
     line-height: 1.6;
 }
-.about-title h3 {
-    font-size: 3em; 
+.highlight-text {
+    font-size: 2em; 
+    font-weight: bold; 
+    color: #fff;
+    display: block; 
     margin-bottom: 20px; 
-    text-align: center; 
-    font-family: 'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', serif; 
-    color: #fff; 
 }
